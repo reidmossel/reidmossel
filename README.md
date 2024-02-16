@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @reidmossel
-- 👀 I’m interested in Web and Game development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👀 I’m interested in Web and Game development, languages, art, music, AI, tech, nature, literally everything
+- 🌱 I’m currently learning:
+-   Web development: HTML, CSS, and Javascript
+-   Game Development: C# and Unity
+-   Languages: Spanish and American Sign Language
 - 😄 Pronouns: he/they
 
 <!---
